@@ -48,7 +48,3 @@
 ### 📫 Contact
 
 [Email](mailto:hyunjuneji@gmail.com) · [GitHub](https://github.com/Jihyunjune)
-
-### See you 👋
-
-> Always asking which computations can be skipped, reused, or approximated—without breaking model behavior.
