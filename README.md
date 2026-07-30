@@ -21,9 +21,9 @@
 
 | Period | Experience |
 |:--|:--|
-| 2026 – Present | Learning-Enabled Systems Research Collaboration @ INA Research Group |
-| Mar. 2026 – Present | Time-Series Foundation Model Inference Research @ The Catholic University of Korea |
+| June. 2026 – Present | Learning-Enabled Systems Research Collaboration @ INA Research Group |
 | Dec. 2025 – Present | Long-Context LLM Inference Research Collaboration @ SNU GSDS |
+| Dec. 2025 – Present | Time-Series Foundation Model Inference Research @ The Catholic University of Korea |
 | Oct. 2025 – Feb. 2026 | NLP and LLM Projects @ Naver Boostcamp AI Tech |
 
 ### 🧠 Research Interests
