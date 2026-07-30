@@ -1,36 +1,54 @@
-# Hyunjune Ji
+### About Me
 
-Undergraduate researcher interested in efficient foundation model inference, long-context LLMs, time-series foundation models, and learning-enabled systems.
+- Undergraduate researcher interested in **efficient foundation model inference**, **long-context LLMs**, **time-series foundation models**, and **learning-enabled systems**.
+- B.S. candidate in Artificial Intelligence at **The Catholic University of Korea**  
+  (GPA: **4.24/4.5**, expected 2027).
+- I study which computations can be **skipped, reused, or approximated** without sacrificing model behavior.
+- Interested in **open-source contributions**, **reproducible research**, and **efficient ML systems**.
 
-B.S. candidate in Artificial Intelligence at The Catholic University of Korea  
-(GPA: 4.24/4.5, expected 2027).
+### 🔬 Current Research
 
-### Currently Working On
+- **SPEED** `NeurIPS 2026 Submission`
+  - Third author of a manuscript studying **layer-asymmetric KV visibility** for efficient long-context LLM inference.
 
-- **SPEED** — Third author of a manuscript submitted to **NeurIPS 2026**, studying layer-asymmetric KV visibility for efficient long-context LLM inference.
+- **BOLTLEAP** `AAAI 2027 Submission`
+  - Working on **linear state transfer for block skipping** in frozen time-series foundation models.
 
-- **BOLTLEAP** — Working on a manuscript submitted to **AAAI 2027** on linear state transfer for block skipping in frozen time-series foundation models.
+- **Explanation-Driven Lifecycle Automation** `Ongoing Collaboration`
+  - Contributing to research with the **INA Research Group** on concept-level diagnosis, lifecycle memory, bounded interventions, and behavioral validation for learned network controllers.
 
-- **Explanation-Driven Lifecycle Automation** — Contributing to research with the **INA Research Group** on concept-level diagnosis, bounded intervention, and behavioral validation for learned network controllers.
+### 🧭 Milestones
 
-Interested in open-source contributions, reproducible research, and efficient ML systems.
+| Period | Experience |
+|:--|:--|
+| 2026 – Present | Learning-Enabled Systems Research Collaboration @ INA Research Group |
+| Mar. 2026 – Present | Time-Series Foundation Model Inference Research @ The Catholic University of Korea |
+| Dec. 2025 – Present | Long-Context LLM Inference Research Collaboration @ SNU GSDS |
+| Oct. 2025 – Feb. 2026 | NLP and LLM Projects @ Naver Boostcamp AI Tech |
 
-### Research Interests
+### 🧠 Research Interests
 
-Efficient Foundation Model Inference · Long-Context LLMs · KV-Cache Optimization · Time-Series Foundation Models · Learning-Enabled Systems
+`Efficient Foundation Model Inference` · `Long-Context LLMs` · `KV-Cache Optimization`  
+`Time-Series Foundation Models` · `Learning-Enabled Systems` · `ML Systems`
 
-### Experience
+### 🛠 Tech Stack
 
-- Long-context LLM inference research collaboration with SNU GSDS
-- Time-series foundation model inference research at The Catholic University of Korea
-- Learning-enabled systems research collaboration with the INA Research Group
-- NLP and LLM projects at Naver Boostcamp AI Tech
+**Languages**
 
-### Tech Stack
+`Python` · `C++`
 
-`Python` `C++` `PyTorch` `Hugging Face Transformers` `vLLM` `Qdrant` `RAG` `Time-Series Forecasting`
+**ML & Systems**
 
-### Contact
+`PyTorch` · `Hugging Face Transformers` · `vLLM` · `Qdrant`
 
-- [Email](mailto:hyunjuneji@gmail.com)
-- GitHub: [@Jihyunjune](https://github.com/Jihyunjune)
+**Research & Applications**
+
+`LLM Inference` · `RAG` · `Time-Series Forecasting`
+
+### 📫 Contact
+
+[Email](mailto:hyunjuneji@gmail.com) · [GitHub](https://github.com/Jihyunjune)
+
+### See you 👋
+
+> Always asking which computations can be skipped, reused, or approximated—without breaking model behavior.
